@@ -26,6 +26,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_Sign in_q')
 WebUI.closeBrowser()
 
 WebUI.openBrowser('')
+WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/')
 
